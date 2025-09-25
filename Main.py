@@ -8,6 +8,9 @@ import utils
 # print('le produit le plus cher est : ',utils.plusCher(d))
 # print('le produit le moin  cher est : ',utils.moinsCher(d))
 # utils.affichageAvecMention(d)
-print(utils.affichageAvecMention1(d))
+#print(utils.affichageAvecMention1(d))
+#utils.searchs(d)
+#utils.addValues(d)
 
 
+utils.menu()
